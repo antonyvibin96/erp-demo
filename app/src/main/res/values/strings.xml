@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">TechnicianDemo</string>
+
+    <string name="production">Production</string>
+    <string name="quality">Quality</string>
+
+    <string name="shift1">shift1</string>
+    <string name="shift2">shift2</string>
+    <string name="shift3">shift3</string>
 </resources>
